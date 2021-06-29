@@ -9,8 +9,12 @@ def display_board
   
 end
 
-prints display_board
- end 
+def display_board
+  puts "A Tic Tac Toe Board"
+ end
+ 
+
+
  
 
 
