@@ -11,8 +11,6 @@ end
 
 print display_board
 
- end
-
 
  
 
