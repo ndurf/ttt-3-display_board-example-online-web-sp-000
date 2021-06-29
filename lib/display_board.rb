@@ -9,7 +9,9 @@ def display_board
   
 end
 
-display_board
+prints display_board
+ end 
+ 
 
 
 
