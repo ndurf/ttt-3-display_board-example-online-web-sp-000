@@ -9,7 +9,8 @@ def display_board
   
 end
 
-{ print "display_board" }
+print display_board
+
 
 
  
