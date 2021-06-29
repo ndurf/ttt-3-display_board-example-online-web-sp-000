@@ -9,7 +9,7 @@ def display_board
   
 end
 
-times { print "display_board" }
+{ print "display_board" }
 
 
  
